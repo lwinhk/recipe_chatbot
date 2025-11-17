@@ -1,0 +1,9 @@
+Embedding:   0%|          | 0/118 [00:00<?, ?it/s]
+Embedding: 100%|██████████| 118/118 [23:45<00:00, 12.08s/it]
+1425.6717722415924
+
+Embedding:   0%|          | 0/118 [00:00<?, ?it/s]
+Embedding: 100%|██████████| 118/118 [04:33<00:00,  2.32s/it]
+306.5218036174774
+
+{"id": "5e0e7fc5-9941-4ede-a5c3-e768c1173cab", "row": 16, "title": "Cranberry Punch", "ingredients": ["cranberry juice", "ginger ale", "O", "boiling water", "frozen lemonade", "cold water"], "directions": ["Mix and put in punch bowl.", "Top with sherbert."], "genre": "drinks", "label": 2, "summary": "Recipe Name: Cranberry Punch\nIngredients: cranberry juice, ginger ale, O, boiling water, frozen lemonade, cold water\nDirections: Mix and put in punch bowl., Top with sherbert.\nGenre: drinks"}
